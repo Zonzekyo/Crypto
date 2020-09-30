@@ -1,2 +1,2 @@
 # Crypto
-Various Encryption/Decryption in python
+Encryption/Decryption in python
